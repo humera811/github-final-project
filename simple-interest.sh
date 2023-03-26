@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <humera811>
+   # humera811
 
    # Input:
    # p, principal amount
